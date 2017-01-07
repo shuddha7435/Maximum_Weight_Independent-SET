@@ -1,4 +1,4 @@
-
+//This is the Maximum Weight Independent Set Class.
 
 public class MWIS {
 	
